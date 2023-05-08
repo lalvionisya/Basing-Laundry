@@ -311,7 +311,7 @@ const CartScreen = () => {
                   <Text
                     style={{ fontSize: 18, fontWeight: "500", color: "gray" }}
                   >
-                    Waktu Pengambilan
+                    Pilihan Pengiriman
                   </Text>
 
                   <Text

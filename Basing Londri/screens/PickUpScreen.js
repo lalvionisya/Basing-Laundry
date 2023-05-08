@@ -78,27 +78,11 @@ const PickUpScreen = () => {
   const times = [
     {
       id: "0",
-      time: "11:00 PM",
+      time: "Antar Sendiri",
     },
     {
       id: "1",
-      time: "12:00 PM",
-    },
-    {
-      id: "2",
-      time: "1:00 PM",
-    },
-    {
-      id: "3",
-      time: "2:00 PM",
-    },
-    {
-      id: "4",
-      time: "3:00 PM",
-    },
-    {
-      id: "5",
-      time: "4:00 PM",
+      time: "Di Jemput Pegawai",
     },
   ];
 
@@ -193,7 +177,7 @@ const PickUpScreen = () => {
             marginHorizontal: 17,
           }}
         >
-          Pilih Waktu
+          Pilih Pengiriman
         </Text>
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>
           {times.map((item, index) => (
@@ -227,7 +211,7 @@ const PickUpScreen = () => {
             fontWeight: "500",
             marginHorizontal: 17,
           }}>
-            Lama Waktu loundry 
+            Estimasi Waktu loundry 
         </Text>
 
         <ScrollView horizontal showsHorizontalScrollIndicator = {false}>
