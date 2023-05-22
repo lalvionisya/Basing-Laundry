@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject01",
-    "slug": "AwesomeProject01",
+    "name": "Basing Laundry",
+    "slug": "basing-pandu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.basing.londri"
+      "package": "com.basing.pandu"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "8d81d326-af8a-4a23-9ba4-44823754f71e"
+        "projectId": "0ac80a7c-2780-4147-a3a0-50c120b2d87e"
       }
     }
   }
